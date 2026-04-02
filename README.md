@@ -7,6 +7,7 @@
 
 [YouTube Build guide Video](Coming Soon)
 [Youtube Channel](https://youtube.com/@imaginationguy27)
+[Instagram](https://www.instagram.com/imagination.guy?igsh=azIybnpoaDlpaHR1)
 ---
 
 ## 📌 The Problem
@@ -205,7 +206,7 @@ was built — including every mistake and fix:
 
 **Portfolio:** [Coming soon]
 **YouTube:** [@imaginationguy27](https://youtube.com/@imaginationguy27)
-**Instagram:** []
+**Instagram:** [https://www.instagram.com/imagination.guy?igsh=azIybnpoaDlpaHR1]
 
 ---
 
