@@ -6,7 +6,7 @@
 **Status:** ✅ Completed
 
 [YouTube Build guide Video](Coming Soon)
-[Youtube Channel](https://youtube.com/@imaginationguy27)
+[Youtube Channel](https://youtube.com/@imaginationguy27)/
 [Instagram](https://www.instagram.com/imagination.guy?igsh=azIybnpoaDlpaHR1)
 ---
 
@@ -53,7 +53,7 @@ can add upto 11 relay and controll 11 electrical appliances.
 
 ## ⚡ Circuit Diagram
 
-![Wiring Diagram](circuit/wiring_diagram.jpg)
+![Wiring Diagram](Circuit Diagram/Circuit Diagram.jpg)
 
 ### Pin Connections
 
@@ -93,7 +93,7 @@ Phone (Blynk App)
 
 ## 💻 Code
 
-The main code file is in `/code/home_automation.ino`
+The main code file is in `Home Auromation (code)/Code.ino`
 
 ### Libraries Required
 Install these via Arduino IDE → Tools → Manage Libraries:
@@ -198,7 +198,7 @@ walkthrough on YouTube:
 Full session-by-session documentation of how this project
 was built — including every mistake and fix:
 
-**[📖 Read Build Journal](YOUR_GOOGLE_DOC_LINK)**
+**[📖 Read Build Journal](https://docs.google.com/document/d/17wDMTwORUsN3py9V4TQ9A9ReiV7OeHwR_s8Vh4s76JE/edit?usp=sharing)**
 
 ---
 
